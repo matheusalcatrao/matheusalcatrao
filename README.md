@@ -1,7 +1,7 @@
 ### Hi my name is Matheus Alcatrão
 
 - 🔭 I’m currently working mobile developer
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Flutter
 ##
 
  <div>
